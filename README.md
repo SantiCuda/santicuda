@@ -3,6 +3,8 @@
     <img src="https://github.com/santicuda/santicuda/blob/main/coding.gif?raw=true" width="250"/>
 
     ![alt text](https://github.com/santicuda/santicuda/blob/main/coding.gif?raw=true)
+
+    <img src="https://github.com/santicuda/santicuda/blob/main/coding.gif?raw=true" alt="Twitter Badge"/>
     
     
   <div id="badges">
