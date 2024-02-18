@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
-![coding](https://github.com/santicuda/santicuda/assets/97795897/d9a25bdb-2ac0-40c9-85b9-092f6134d205)
-<img src="https://github.com/santicuda/santicuda/assets/97795897/d9a25bdb-2ac0-40c9-85b9-092f6134d205" alt="Youtube Badge"/>
+
+<img src="https://github.com/santicuda/santicuda/assets/97795897/d9a25bdb-2ac0-40c9-85b9-092f6134d205" width="250"/>
     
   <div id="badges">
     <a href="https://www.linkedin.com/in/santiagocuda/">
