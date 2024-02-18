@@ -1,11 +1,7 @@
 <div id="header" align="center">
   
-    <img src="https://github.com/santicuda/santicuda/blob/main/coding.gif?raw=true" width="250"/>
-
-    ![alt text](https://github.com/santicuda/santicuda/blob/main/coding.gif?raw=true)
-
-    <img src="https://github.com/santicuda/santicuda/blob/main/coding.gif?raw=true" alt="Twitter Badge"/>
-    
+![coding](https://github.com/santicuda/santicuda/assets/97795897/d9a25bdb-2ac0-40c9-85b9-092f6134d205)
+<img src="https://github.com/santicuda/santicuda/assets/97795897/d9a25bdb-2ac0-40c9-85b9-092f6134d205" alt="Youtube Badge"/>
     
   <div id="badges">
     <a href="https://www.linkedin.com/in/santiagocuda/">
