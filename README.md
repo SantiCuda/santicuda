@@ -33,9 +33,6 @@
   
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-santicuda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiagocuda/)
   
-  <div align="center">
-    <img src="https://www.shootdartsolutions.com/img/service/web-design.gif" width="500"/>
-    </div>
     
   ### :rocket: My projects:
   
