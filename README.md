@@ -1,6 +1,7 @@
 <div id="header" align="center">
   
-    <img src="./coding.gif" width="250"/>
+    <img src="https://github.com/santicuda/santicuda/blob/main/coding.gif" width="250"/>
+    
     
   <div id="badges">
     <a href="https://www.linkedin.com/in/santiagocuda/">
