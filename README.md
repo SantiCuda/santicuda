@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-    <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="250"/>
+    <img src="./coding.gif" width="250"/>
     
   <div id="badges">
     <a href="https://www.linkedin.com/in/santiagocuda/">
