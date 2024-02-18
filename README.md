@@ -1,8 +1,6 @@
-<div id="header>
+<div id="header style="text-align: center;>
   
-<div style="text-align: center;>
 <img src="https://github.com/santicuda/santicuda/assets/97795897/d9a25bdb-2ac0-40c9-85b9-092f6134d205" width="250"/>
-  </div>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/santiagocuda/">
@@ -15,6 +13,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+</div>
     
 <h1>
   hey there
