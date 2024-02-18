@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-    <img src="https://github.com/santicuda/santicuda/blob/main/coding.gif" width="250"/>
+    <img src="https://github.com/santicuda/santicuda/blob/main/coding.gif?raw=true" width="250"/>
     
     
   <div id="badges">
