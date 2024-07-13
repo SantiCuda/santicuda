@@ -1,4 +1,4 @@
-<div id="header" style="text-align: center;">
+<div id="header" align="center">
   <img src="https://github.com/santicuda/santicuda/assets/97795897/d9a25bdb-2ac0-40c9-85b9-092f6134d205" width="250"/>
   
   <div id="badges">
@@ -14,8 +14,7 @@
   </div>
 </div>
   
-    
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
