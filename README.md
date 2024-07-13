@@ -41,17 +41,17 @@
   
   - [Video Game Sign-up Form](https://santicuda.github.io/sign-up-form/): A sign-up form for a video game.
   
-  - [JavaScript Calculator](https://cryptododo04.github.io/odin-calculator/): A simple calculator built with JavaScript.
+  - [JavaScript Calculator](https://santicuda.github.io/odin-calculator/): A simple calculator built with JavaScript.
   
-  - [Argentina-Programa-4.0 Final Project](https://cryptododo04.github.io/argentina-programa-trabajo-integrador/): A company landing page with Bootstrap, PDF Generation, and a wizard-type form section.
+  - [Argentina-Programa-4.0 Final Project](https://santicuda.github.io/argentina-programa-trabajo-integrador/): A company landing page with Bootstrap, PDF Generation, and a wizard-type form section.
   
-  - [Etch-a-Sketch](https://cryptododo04.github.io/etchASketch/): A drawing toy created with HTML, CSS, and JavaScript.
+  - [Etch-a-Sketch](https://santicuda.github.io/etchASketch/): A drawing toy created with HTML, CSS, and JavaScript.
   
-  - [Rock-Paper-Scissors Game](https://cryptododo04.github.io/rock-paper-scissors/): A classic game implemented using HTML, CSS, and JavaScript.
+  - [Rock-Paper-Scissors Game](https://santicuda.github.io/rock-paper-scissors/): A classic game implemented using HTML, CSS, and JavaScript.
   
-  - [Generic Store Single Landing Page](https://cryptododo04.github.io/landing-page/): A landing page template for a generic store.
+  - [Generic Store Single Landing Page](https://santicuda.github.io/landing-page/): A landing page template for a generic store.
   
-  - [Cooking Recipes Landing Page](https://cryptododo04.github.io/odin-recipes/): A landing page for cooking recipes.  
+  - [Cooking Recipes Landing Page](https://santicuda.github.io/odin-recipes/): A landing page for cooking recipes.  
   ---
   
 </div>
