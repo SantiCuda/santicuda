@@ -69,6 +69,6 @@
   </div>
   
   ### :fire: My stats:
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cryptododo04&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santicuda&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptododo04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santicuda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
