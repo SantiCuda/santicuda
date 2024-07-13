@@ -39,7 +39,7 @@
   
   <div style="text-align:left">
   
-  - [Video Game Sign-up Form](https://cryptododo04.github.io/sign-up-form/): A sign-up form for a video game.
+  - [Video Game Sign-up Form](https://santicuda.github.io/sign-up-form/): A sign-up form for a video game.
   
   - [JavaScript Calculator](https://cryptododo04.github.io/odin-calculator/): A simple calculator built with JavaScript.
   
