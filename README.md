@@ -22,7 +22,7 @@
   ---
   
   ### :man_technologist: About me:
-  I am a Front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Buenos Aires, Argentina.
+  I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Buenos Aires, Argentina.
   
   - :telescope: I’m working as a freelance dev and contributing to frontend and backend for building web applications.
   
