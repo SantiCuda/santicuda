@@ -30,7 +30,7 @@ I am a Full Stack Developer from Buenos Aires, Argentina 🇦🇷
 ### 🌐 My Portfolio
 
 🚀 **Personal Portfolio Website**  
-👉 [https://TU-URL-DE-VERCEL.vercel.app/](https://portfolio-santicuda.vercel.app/)
+👉 [https://portfolio-santicuda.vercel.app/](https://portfolio-santicuda.vercel.app/)
 
 A modern personal portfolio where I showcase my projects, skills, and experience.
 
