@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About me:
 
-I am a Full Stack Developer from Buenos Aires, Argentina 🇦🇷
+I am a Full Stack Developer <img src="cat-typing.gif" width="50"/> from Buenos Aires, Argentina :argentina: 🧉
 
 - 🚀 Currently focused on building modern web applications  
 - 🔧 Working with Node.js, Express, MongoDB and React  
